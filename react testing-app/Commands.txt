@@ -1,0 +1,12 @@
+Tool for running the Tests and declare Results: 
+    jest
+
+Tool for Simulating(Rendering) Our React App/Components:
+    React Tesing Library
+
+
+npx create-react-app react-testing-app
+    Already applied both
+
+
+npm test
